@@ -18,3 +18,6 @@ At this time, I could only test the setup on an 42-inch TV because my touch disp
 For now, it works fine on the TV. 
 
 The only thing to consider is, that if you have Wi-Fi somewhere, and you are planing to use it, the CarPlay dongle works over Wi-Fi so the connection to your home Wi-Fi will get disconnected. I don't think this is a huge bummer, but maybe a thing to note since I don't have Cellular data at my place. 
+
+(10.09.2022)
+The touch display did arrive and it worked flawlessly. 
