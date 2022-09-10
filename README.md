@@ -21,5 +21,3 @@ The only thing to consider is, that if you have Wi-Fi somewhere, and you are pla
 
 (10.09.2022)
 The touch display did arrive and it worked flawlessly. 
-https://user-images.githubusercontent.com/113006787/189481915-cadd8a9b-cc7a-4b64-b1c2-f0cb97820fa6.jpg
-![image description]([relative/path/in/repository/to/image.svg](https://user-images.githubusercontent.com/113006787/189481915-cadd8a9b-cc7a-4b64-b1c2-f0cb97820fa6.jpg))
