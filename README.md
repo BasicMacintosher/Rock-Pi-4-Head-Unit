@@ -23,3 +23,7 @@ The only thing to consider is, that if you have Wi-Fi somewhere, and you are pla
 The touch display did arrive and it worked flawlessly. 
 I took two pictures how it looks right now. 
 Im now designing a box to fit it all in and then test it in my car.
+
+(11.09.2022)
+I installed the Display temporary in my car without the enclousure, because it fit pretty well. 
+Now im going to test it and get a few more things ready. 
