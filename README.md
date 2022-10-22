@@ -34,3 +34,4 @@ Now im going to test it and get a few more things ready.
 The Mount for the Display is not as I antisipated at the beginning. 
 I found an old phone holder in my car and im going to use it to secure the Display. 
 The file for the Mount is attached in the "Files" folder. 
+I am currently testing it and eliminating a few issues like the Microfone of my car not beeing picked up. 
