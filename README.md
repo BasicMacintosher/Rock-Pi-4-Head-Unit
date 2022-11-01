@@ -27,7 +27,7 @@ Im now designing a box to fit it all in and then test it in my car.
 ## - 11.09.2022
 I installed the Display temporary in my car without the enclousure, because it fit somewhat and im only printig a small structure to support it while driving.  
 Now im going to test it and get a few more things ready. 
-![Screenshot 2022-06-27 at 17 28 10](https://user-images.githubusercontent.com/113006787/189525137-2f76be16-068f-4708-9d08-18728b2bb121.jpeg)
+![Car Mount](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Picutres/Car_Mount.jpeg)
 
 
 ## - 22.10.2022  
