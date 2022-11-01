@@ -39,10 +39,10 @@ The Steering wheel control on my car arent working either. To solve this issue, 
 Because the design is not yet finished, I didnt include the cad files nor the code for the Pico because I want to alter it 
 
 (01.11.2022)
-I created an enclousure for the Rock Pi and an Battery Backup System which I bought of off amazon. https://www.amazon.de/-/en/gp/product/B07KXRZ779/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+I created an enclousure for the Rock Pi and an Battery Backup System which I bought of off amazon. https://www.amazon.de/-/en/gp/product/B07KXRZ779/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1  
 The acrylic case the Battery Board comes with and the tall stand offs have no use for me because it is to bulky for me and I wanted an Integrated design. 
 So I designed my own Case  for it. 
-![Rock Pi 4 case](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Files/Rock_Pi_4_case_with_Battery.step.stl)
+![Rock Pi 4 case](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Files/Rock_Pi_4_case_with_Battery.step.stl)  
 To mount the components to the Case, I used the included mounting screws and the small standoffs along with some M2 nuts I had laying arround. For the Rock Pi I used some M3 screews and nuts.
 After I drilled a few M3 or M2 holes in the case I could mount the components to the case. 
 ![Picutre of the Case](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Picutres/Case_with_Battery.jpeg)
