@@ -3,6 +3,12 @@ Build an Rock Pi 4b powered car head unit
 
 # !! This Project is Work in Progress!!
 
+## To Do ##
+- [ ] Test if Audio from a Call and Microfon is working
+- [ ] Build and test the second version of the media buttons
+- [ ] integrate the display in my car (I cant build a mount for every car but will test it with my ford fiesta mk6)
+
+
 I bought a Rock Pi 4 with the intention to build a Car head unit for my Car. 
 Follow me on my journey through this project. 
 
@@ -53,3 +59,5 @@ Sadly I'm not quiet finished jet so I can only write about the first version wit
 #### V1 Media Control #### 
 It has three buttons (I used some mechanical buttons I had laying arround but these ones are similar [mechanical buttons](https://www.amazon.de/-/en/Cherry-Switches-Mechanical-Keyboard-Replacement/dp/B08SK47VDX/ref=dp_prsubs_1?pd_rd_w=9Dfkl&content-id=amzn1.sym.85e12063-5122-4149-bea0-850be1f2d6fb&pf_rd_p=85e12063-5122-4149-bea0-850be1f2d6fb&pf_rd_r=TXTQ65X3V23RKC0E6E2S&pd_rd_wg=DHPxH&pd_rd_r=97320573-eb64-4131-b339-d626eed951cf&pd_rd_i=B08SK47VDX&psc=1)) 
 The files can be found here: [cad file](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Files/car_media_control%20v1.stl)
+the Raspberry Pi pico has been mounted outside of the enclousure to keep the housing low profile. The RPI Pico and the buttons were connected with an old USB cable with I removed both end of and used the conductors to connect each button seperatly with a common ground. [wiring diagramm of the pi](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Files/Car_Controll_Schematic_Version_1.pdf)
+Currently I am printing the housing for verion 2 and as soon as I get some time testing it I will post it here. 
