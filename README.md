@@ -4,7 +4,7 @@ Build an Rock Pi 4b powered car head unit
 # !! This Project is Work in Progress!!
 
 ## To Do ##
-- [ ] Test if Audio from a Call and Microfon is working
+- [ ] Microfon in calls currently not working 
 - [ ] Build and test the second version of the media buttons
 - [ ] integrate the display in my car (I cant build a mount for every car but will test it with my ford fiesta mk6)
 
@@ -53,7 +53,7 @@ To mount the components to the Case, I used the included mounting screws and the
 After I drilled a few M3 or M2 holes in the case I could mount the components to the case. 
 ![Picutre of the Case](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Picutres/Case_with_Battery.jpeg)
 
-## -07.12.2022
+## - 07.12.2022
 By now I have two versions of the car media controler. Both are build around the Raspberry Pi Pico (witch is actually in stock at least in germany) and a few push buttons. The secend version I made als has an Joystick because the dispaly was a bit unconvortable to reach while diriving so I made the joystick control act as an mouse to control the display convortable. 
 Sadly I'm not quiet finished jet so I can only write about the first version witch run without a problem. 
 #### V1 Media Control #### 
@@ -61,3 +61,7 @@ It has three buttons (I used some mechanical buttons I had laying arround but th
 The files can be found here: [cad file](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Files/car_media_control%20v1.stl)
 the Raspberry Pi pico has been mounted outside of the enclousure to keep the housing low profile. The RPI Pico and the buttons were connected with an old USB cable with I removed both end of and used the conductors to connect each button seperatly with a common ground. [wiring diagramm of the pi](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Files/Car_Controll_Schematic_Version_1.pdf)
 Currently I am printing the housing for verion 2 and as soon as I get some time testing it I will post it here. 
+
+## - 19.12.2022
+Today I created the second verion of the media buttons. The Design can mount to the steering wheel (watch out for compatibility with you car). The design is split into the buttons, the joystick for mouse input and the raspberry pi pico which are all seperated. The buttons are located on the inner side of the steering wheel, the joystick will be mounted to the car handle (the case is not finished yet), and the rasperry pi is located where ever is space. [steering wheel control](https://github.com/BasicMacintosher/Rock-Pi-4-Head-Unit/blob/main/Files/steering_wheel_control.stl) (an .step file is also avaible in the "file" folder).
+In the following days I will test the design and also work on the joystick. 
